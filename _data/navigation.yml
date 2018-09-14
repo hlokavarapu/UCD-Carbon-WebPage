@@ -5,4 +5,4 @@
 - name: Reservoir Model
   link: /ReservoirModel.html
 - name: BinderTest
-  link: http://mybinder.org/v2/gh/binder-examples/requirements/master
+  link: https://mybinder.org/v2/gh/hlokavarapu/UCD-Carbon-WebPage/master?filepath=UCD-Carbon-WebPage%2FJupyterNoteBook%2FLorenzDifferentialEquations.ipynb
