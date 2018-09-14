@@ -6,3 +6,5 @@
   link: /ReservoirModel.html
 - name: Widget Basics
   link: https://mybinder.org/v2/gh/hlokavarapu/UCD-Carbon-WebPage.git/master?filepath=JupyterNoteBook%2FWidgetBasics.ipynb
+- name: WriteUp
+  link: /assets/writeup.pdf
