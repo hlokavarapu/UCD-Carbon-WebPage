@@ -1,9 +1,7 @@
 - name: Home
   link: /
 - name: About
-  link: /about.html
-- name: Reservoir Model
-  link: /ReservoirModel.html
+  link: /about.md
 - name: Widget Basics
   link: https://mybinder.org/v2/gh/hlokavarapu/UCD-Carbon-WebPage.git/master?filepath=JupyterNoteBook%2FWidgetBasics.ipynb
 - name: WriteUp
