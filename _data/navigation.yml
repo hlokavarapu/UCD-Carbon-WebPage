@@ -4,5 +4,5 @@
   link: /about.html
 - name: Reservoir Model
   link: /ReservoirModel.html
-- name: BinderTest
-  link: https://mybinder.org/v2/gh/hlokavarapu/UCD-Carbon-WebPage/master?filepath=UCD-Carbon-WebPage%2FJupyterNoteBook%2FLorenzDifferentialEquations.ipynb
+- name: Widget Basics
+  link: https://mybinder.org/v2/gh/hlokavarapu/UCD-Carbon-WebPage.git/master?filepath=JupyterNoteBook%2FWidgetBasics.ipynb
