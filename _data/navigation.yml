@@ -1,7 +1,7 @@
 - name: Home
-  link: /
+  link: /index.html
 - name: About
-  link: /about.md
+  link: /about.html
 - name: Widget Basics
   link: https://mybinder.org/v2/gh/hlokavarapu/UCD-Carbon-WebPage.git/master?filepath=JupyterNoteBook%2FWidgetBasics.ipynb
 - name: WriteUp
