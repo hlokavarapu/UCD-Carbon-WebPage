@@ -1,0 +1,8 @@
+- name: Home
+  link: /
+- name: About
+  link: /about.html
+- name: Reservoir Model
+  link: /ReservoirModel.html
+- name: BinderTest
+  link: http://mybinder.org/v2/gh/binder-examples/requirements/master
